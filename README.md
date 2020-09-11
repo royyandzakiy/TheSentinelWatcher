@@ -8,5 +8,5 @@ It is a part of TheSentinel Project and has been Patented. Has been brought to a
 
 The application is to be used within a certain for forest watching act. The full diagram can be seen within the Diagram picture.
 
-![Application View](docs/splashscreen.jpg)
-![Diagram](docs/diagram.jpg)
+![Application View](docs/splashscreen.png)
+![Diagram](docs/diagram.png)
