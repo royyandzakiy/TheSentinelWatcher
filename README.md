@@ -6,7 +6,7 @@ This application listens to ambient noise, by recording it. It then searches for
 
 It is a part of TheSentinel Project and [is currently processed to be Patented](https://drive.google.com/file/d/1dCaDc7lMJvQZnYyE4Jc2mXdt05xm2XSz/view). Has been brought to an Indonesian National Wide Competition and acquired certain amounts of research grants.
 
-The application is to be used within a certain for forest watching act. The full diagram can be seen within the Diagram picture.
+The application is to be used within a certain scheme for forest watching act. The full diagram can be seen within the Diagram picture.
 
 ![Application View](docs/splashscreen.png)
 ![Diagram](docs/diagram.png)
